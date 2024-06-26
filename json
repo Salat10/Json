@@ -1,0 +1,170 @@
+```0.json
+{
+  "name": "White Dog",
+  "description": "NFTs are a fundamental part of our project and will be used in the first and second games. Each NFT owner will receive income from the AC Project Fund, as well as many other benefits.",
+  "image": "https://github.com/Gefest14/AC-Project-4/blob/main/Goat1.PNG?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Piece",
+      "value": "Dog"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    }
+  ]
+}
+```
+```1.json
+{
+  "name": "White Cat",
+  "description": "NFTs are a fundamental part of our project and will be used in the first and second games. Each NFT owner will receive income from the AC Project Fund, as well as many other benefits.",
+  "image": "https://github.com/Gefest14/AC-Project-4/blob/main/Goat2%20(2).PNG?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Piece",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    }
+  ]
+}
+```
+```2.json
+{
+  "name": "White Rook",
+  "description": "NFTs are a fundamental part of our project and will be used in the first and second games. Each NFT owner will receive income from the AC Project Fund, as well as many other benefits.",
+  "image": "https://github.com/Salat10/AC-Project-4/blob/main/Goat5.PNG?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Piece",
+      "value": "Rook"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    }
+  ]
+}
+```
+```3.json
+{
+  "name": "White Rook",
+  "description": "NFTs are a fundamental part of our project and will be used in the first and second games. Each NFT owner will receive income from the AC Project Fund, as well as many other benefits.",
+  "image": "https://github.com/Salat10/AC-Project-4/blob/main/Goat6%20(2).PNG?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Piece",
+      "value": "Rook"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    }
+  ]
+}
+```
+```4.json
+{
+  "name": "White Bishop",
+  "description": "NFTs are a fundamental part of our project and will be used in the first and second games. Each NFT owner will receive income from the AC Project Fund, as well as many other benefits.",
+  "image": "https://github.com/Salat10/AC-Project-4/blob/main/Goat7%20(2).PNG?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Piece",
+      "value": "Bishop"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    }
+  ]
+}
+```
+```5.json
+{
+  "name": "White Bishop",
+  "description": "NFTs are a fundamental part of our project and will be used in the first and second games. Each NFT owner will receive income from the AC Project Fund, as well as many other benefits.",
+  "image": "https://github.com/Salat10/AC-Project-4/blob/main/Goat8%20(2).PNG?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Piece",
+      "value": "Bishop"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    }
+  ]
+}
+```
+```6.json
+{
+  "name": "White Knight",
+  "description": "NFTs are a fundamental part of our project and will be used in the first and second games. Each NFT owner will receive income from the AC Project Fund, as well as many other benefits.",
+  "image": "https://github.com/Salat10/AC-Project-4/blob/main/Goat4%20(2).PNG?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Piece",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    }
+  ]
+}
+```
+```7.json
+{
+  "name": "White Knight",
+  "description": "NFTs are a fundamental part of our project and will be used in the first and second games. Each NFT owner will receive income from the AC Project Fund, as well as many other benefits.",
+  "image": "https://github.com/Salat10/AC-Project-4/blob/main/Goat3.PNG?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Piece",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    }
+  ]
+}
+```
+```8.json
+{
+  "name": "White Pawn",
+  "description": "NFTs are a fundamental part of our project and will be used in the first and second games. Each NFT owner will receive income from the AC Project Fund, as well as many other benefits.",
+  "image": "https://github.com/Salat10/AC-Project-4/blob/main/Goat9%20(2).PNG?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Piece",
+      "value": "Pawn"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    }
+  ]
+}
+```
+```9.json
+{
+  "name": "White Pawn",
+  "description": "NFTs are a fundamental part of our project and will be used in the first and second games. Each NFT owner will receive income from the AC Project Fund, as well as many other benefits.",
+  "image": "https://github.com/Salat10/AC-Project-4/blob/main/Goat10%20(2).PNG?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Piece",
+      "value": "Pawn"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    }
+  ]
+}
+```
